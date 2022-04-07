@@ -1,0 +1,2 @@
+Understanding the concept of directories, folders, files and atom. This is important because this is the basic/foundation of coding that will be used and reference throughout Turing and throughout a software developing career.
+Introductory to what Git is and how is it relevant to the software developing profession. This is important to success at Turing because Git is utilized to collaborate with others and track all point and progress of a project.
